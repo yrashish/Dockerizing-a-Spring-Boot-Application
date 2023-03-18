@@ -30,7 +30,7 @@ Containerization has revolutionized the way modern applications are deployed and
 * Pulling the Docker image from the container registry
 * Running the Docker container as a Spring Boot application
 
-## Creating CI/CD using Semaphore for the Spring Boot Application
+## Creating CI/CD flow with Semaphore for the Spring Boot Application
 
 * Configuring and Running Sempaphore pipeline for Spring Boot Applicaiton
 
